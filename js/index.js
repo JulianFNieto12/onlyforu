@@ -6,7 +6,7 @@ const gifs = [
 ];
 
 const frases = [
-    "¿Segura? Piénsalo...",
+    "¿Seguro? Piénsalo...",
     "Te prometo que será inolvidable 💖",
     "Última oportunidad..."
 ];
